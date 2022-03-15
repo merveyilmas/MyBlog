@@ -3,7 +3,7 @@ Kendime ait yaptığım web sitemdir.
 
 ### Sistem Bileşenleri
 
-Web sitesi Visiual Studio Vode platformunda HTML, Css ve Bootstrap kullanılarak geliştirilmiştir.
+Web sitesi Visiual Studio Code platformunda HTML, Css ve Bootstrap kullanılarak geliştirilmiştir.
 
 ### Web Sitesi hakkında;
 
