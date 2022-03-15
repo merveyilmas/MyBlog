@@ -25,6 +25,6 @@ Uygulama web sitesi görüntüleyebilen tüm cihazlarda çalışır. Bu siteden 
 
 *Fotoğraf arşivim Sayfası*
 
-<a href="https://resimlink.com/YwIPl" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/YwIPl.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://resimlink.com/V7PNm963qUnE" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/V7PNm963qUnE.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/BJSlKb6HEhyd" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/BJSlKb6HEhyd.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/IcBw24bf5Pd" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/IcBw24bf5Pd.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 <a href="https://resimlink.com/DNqQb" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/DNqQb.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
