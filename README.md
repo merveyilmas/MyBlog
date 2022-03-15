@@ -11,6 +11,9 @@ Uygulama web sitesi görüntüleyebilen tüm cihazlarda çalışır. Bu siteden 
 
 ## Web Sitesinin Ekran Görüntüleri
 
+Aşağıdaki linkten uygulamamın görüntülerine ulaşabilirsiniz.
+https://drive.google.com/drive/folders/1LhsLLu3bzf-j-cjRBwQe71hqre_pmgqb
+
 *Anasayfa*
 
 <a href="https://resimlink.com/EtmfL50W" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/EtmfL50W.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
