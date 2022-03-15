@@ -24,7 +24,6 @@ https://drive.google.com/drive/folders/1LhsLLu3bzf-j-cjRBwQe71hqre_pmgqb
 *Hakkımda Sayfası*
 
 <a href="https://resimlink.com/S5quYH1A" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/S5quYH1A.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-https://drive.google.com/drive/folders/1LhsLLu3bzf-j-cjRBwQe71hqre_pmgqb
 -------------------------------------------
 
 *Fotoğraf arşivim Sayfası*
