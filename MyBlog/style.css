@@ -1,0 +1,23 @@
+.navbar {
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+	background: rgb(156, 64, 102);
+
+	font-size: large;
+	font-weight: bold;
+	
+}
+
+.jumbotron {
+	padding-top: 150px;
+	background-image: url("img/2.jpeg");
+		
+}
+
+.bottomNavbar{
+	background: rgb(156, 64, 102);
+	padding-top: 15px;
+	
+}
+
+
