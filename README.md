@@ -12,7 +12,7 @@ Uygulama web sitesi görüntüleyebilen tüm cihazlarda çalışır. Bu siteden 
 ## Web Sitesinin Ekran Görüntüleri
 
 Aşağıdaki linkten uygulamamın görüntülerine ulaşabilirsiniz.<br>
-https://drive.google.com/drive/folders/1LhsLLu3bzf-j-cjRBwQe71hqre_pmgqb
+https://drive.google.com/drive/folders/13MgWvGCNsv9de5dVb3ScK10Rx0vvQper?usp=sharing
 
 *Anasayfa*
 
